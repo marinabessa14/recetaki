@@ -1,0 +1,28 @@
+.pesquisa {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('https://wallpapers.com/images/high/food-photography-background-9dvfrqar8xvmnq46.webp');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.receita-card {
+    transition: transform 0.3s ease;
+}
+
+.receita-card:hover {
+    transform: translateY(-5px);
+}
+
+.receita-detail-img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+
+  .loading {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
