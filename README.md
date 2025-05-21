@@ -1,4 +1,5 @@
 🍲 Projeto API de Receitas
+
 Este projeto é uma aplicação web responsiva que permite aos usuários pesquisar receitas usando a API TheMealDB. Foi construído com HTML, CSS e JavaScript, utilizando o framework Bootstrap para um design limpo e responsivo.
 
 ✨ Funcionalidades
