@@ -2,6 +2,7 @@
 Este projeto é uma aplicação web responsiva que permite aos usuários pesquisar receitas usando a API TheMealDB. Foi construído com HTML, CSS e JavaScript, utilizando o framework Bootstrap para um design limpo e responsivo.
 
 ✨ Funcionalidades
+
 Pesquisa de Receitas: Encontre receitas facilmente pelo nome.
 
 Design Responsivo: Desfrute de uma experiência perfeita em vários dispositivos, de desktops a celulares.
@@ -11,6 +12,7 @@ Visualização Detalhada da Receita: Clique em uma receita para ver mais detalhe
 Interface de Usuário Intuitiva: Um design limpo e fácil de usar torna a navegação muito simples.
 
 💻 Tecnologias Utilizadas
+
 HTML5: Para a estrutura básica das páginas web.
 
 CSS3: Para estilização e apresentação visual.
