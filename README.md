@@ -4,7 +4,7 @@ Este projeto é uma aplicação web responsiva que permite aos usuários pesquis
 
 -----------------------------------------------------
 
-✨ Funcionalidades
+# ✨ Funcionalidades
 
 Pesquisa de Receitas: Encontre receitas facilmente pelo nome.
 
@@ -14,7 +14,9 @@ Visualização Detalhada da Receita: Clique em uma receita para ver mais detalhe
 
 Interface de Usuário Intuitiva: Um design limpo e fácil de usar torna a navegação muito simples.
 
-💻 Tecnologias Utilizadas
+--------------------------------
+
+# 💻 Tecnologias Utilizadas
 
 HTML5: Para a estrutura básica das páginas web.
 
@@ -27,5 +29,7 @@ Bootstrap 5: Um poderoso framework front-end para design responsivo e componente
 Fetch API: Para fazer requisições HTTP à API TheMealDB.
 
 TheMealDB API: A API externa utilizada para buscar dados de receitas.
+
+-----------------
 
 Link do Projeto: https://recetaki-nf2l09eiu-marinabessa14s-projects.vercel.app/
